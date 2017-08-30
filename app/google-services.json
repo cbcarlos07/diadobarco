@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142712105015",
+    "firebase_url": "https://barco-3a4e4.firebaseio.com",
+    "project_id": "barco-3a4e4",
+    "storage_bucket": "barco-3a4e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142712105015:android:d9fea6c7924e7005",
+        "android_client_info": {
+          "package_name": "br.com.britosoft.diadobarco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142712105015-6l7toduc2tkuoan40jt923r2gihpi81i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.britosoft.diadobarco",
+            "certificate_hash": "41f40e30f09271d866ad0e2156b7b65688029c3d"
+          }
+        },
+        {
+          "client_id": "142712105015-41q2lhq43vkumtufbh6qff1h4kqk4knd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALz27roMsX_Ok1ZuZcQq6ZNPiZYI7O2F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142712105015-41q2lhq43vkumtufbh6qff1h4kqk4knd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
